@@ -1,3 +1,3 @@
 # Testowe1-
 Testowe 1 repozytorium publiczne 
-TEST 123
+1. Testowy przypadek testowy
